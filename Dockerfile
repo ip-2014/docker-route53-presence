@@ -1,4 +1,4 @@
-FROM stackbrew/ubuntu:13.10
+FROM stackbrew/ubuntu:16.04
 MAINTAINER Oliver Soell "oliver@timelinelabs.com"
 
 RUN apt-get update -qq
